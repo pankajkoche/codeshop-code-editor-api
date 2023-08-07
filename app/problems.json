@@ -1,0 +1,40 @@
+{
+    "Add Two Numbers": {
+      "input_test_cases": [
+        {
+          "input": "2 5",
+          "expected_output": "7"
+        },
+        {
+          "input": "10 -3",
+          "expected_output": "7"
+        },
+        {
+          "input": "0 0",
+          "expected_output": "0"
+        },
+        {
+          "input": "100 200",
+          "expected_output": "300"
+        },
+        {
+          "input": "4 -8",
+          "expected_output": "-4"
+        }
+      ]
+    },
+    "Permutations":{
+      "input_test_cases": [
+        {
+          "input": [1,2,3],
+          "expected_output": [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
+        },
+        {
+          "input": [0,1],
+          "expected_output": [[0,1],[1,0]]
+        }
+      ]
+
+    }
+  }
+  
