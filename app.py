@@ -5,7 +5,7 @@ app = create_app()
 
 @app.route('/')
 def hello_world():
-    return 'Hello, welcome!'
+    return 'Hello, welcome to app!'
 
 if __name__ == '__main__':
    
