@@ -20,4 +20,4 @@ MAIL_USERNAME = ''  # Replace with your email address
 MAIL_PASSWORD = ''  # Replace with your email password
 MAIL_DEBUG = True
 # CORS configuration
-CORS_ORIGINS = ['https://codeshop.co.in/'] 
+CORS_ORIGINS = ['https://codeshop.co.in'] 
